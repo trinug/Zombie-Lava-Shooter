@@ -8,8 +8,7 @@ kamu harus siap dan berhati-hati jangan sampai kamu menyentuh zombi atau malah t
 
 ![Game Icon](/img/screenshoot.jpg) !
 
-<img src="/img/screenshoot.jpg" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />
+<img src="/img/screenshoot.jpg" align="center" />
   
 ## Feature
 * 12 senjata yang bisa dibuka
