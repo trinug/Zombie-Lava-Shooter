@@ -1,5 +1,4 @@
 ![Game Icon](/img/icon.png)
-<div style="text-align:center">b<img src ="/img/icon.png" /></div>
 # Zombie Lava Shooter
 Zombie Lava Shooter - Game endless runner sekaligus game menembak dengan kontrol yang sederhana. Cukup tap dan tahan untuk bergerak kekiri lalu lepas untuk bergerak kekanan. Terdengar simple kan? tapi kamu harus berlari berbelok-belok untuk menghindari zombie!
 ## Gameplay
