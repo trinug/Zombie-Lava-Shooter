@@ -1,5 +1,5 @@
 
-# ${1:Project Name}
+# Zombie Lava Shooter
 Casual android game with easy controll with zombie apocalypse theme
 ## Installation
 TODO: Describe the installation process
