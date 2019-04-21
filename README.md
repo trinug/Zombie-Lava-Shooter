@@ -1,5 +1,5 @@
 ![Game Icon](/img/icon.png)
-<div style="text-align:center"><img src ="/img/icon.png" /></div>
+<div style="text-align:center">b<img src ="/img/icon.png" /></div>
 # Zombie Lava Shooter
 Casual android game with easy controll with zombie apocalypse theme
 ## Installation
