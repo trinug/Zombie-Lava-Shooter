@@ -5,7 +5,8 @@ Zombie Lava Shooter - Game endless runner sekaligus game menembak dengan kontrol
 ![Game Icon](/img/gif-zombiels.gif)
 
 kamu harus siap dan berhati-hati jangan sampai kamu menyentuh zombi atau malah tercebur ke lava. Ambil peluru yang tersedia dan tembak semua zombi yang kamu lihat. Dalam game Zombie Lava Shoother misimu adalah berlari dan bertahan sejauh mungkin. Ambil dan kumpulkan permata yang ada untuk membuka senjata-senjata baru. Kamu memiliki 12 senjata yang bisa dibuka dan ada 6 tipe zombi yang harus kamu hadapi.
-![Game Icon](/img/screenshoot.png) ![Game Icon](/img/screenshoot2.png)
+
+![Game Icon](/img/screenshoot.jpg) ![Game Icon](/img/screenshoot-2.png)
 ## Feature
 * 12 senjata yang bisa dibuka
 * 6 tipe zombi
